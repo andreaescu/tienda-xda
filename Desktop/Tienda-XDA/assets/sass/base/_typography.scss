@@ -1,0 +1,30 @@
+//font family
+$raleway: 'Raleway', sans-serif;
+$old: 'Old Standard TT', serif;
+
+//font size
+$xxx-large: 50px;
+$xx-large: 30px;
+$x-large: 20px;
+$large: 18px;
+$medium: 16px;
+$small: 14px;
+$x-small: 12px;
+
+h1 {
+  font-size: $xxx-large;
+  font-family: $old;
+  color: $smoky-black
+}
+
+h2 {
+  font-size: $xx-large;
+  font-family: $old;
+  color: $white;
+}
+
+p {
+  font-size: $medium;
+  font-family: $raleway;
+  color: $granite-gray;
+}
